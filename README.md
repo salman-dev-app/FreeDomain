@@ -1,75 +1,121 @@
-## 🌐 Say Goodbye to Domain Fees
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&text=FreeDomain&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Free%20Domain%20For%20Everyone&descAlignY=60&descSize=14"/>
+</div>
 
-Welcome to **DigitalPlat FreeDomain**, where we believe everyone deserves a digital identity. Whether you're an individual, or an organization, we’re offering free domain names to bring your ideas to life – no strings attached!
+<p align="center">
+  <a href="https://github.com/salman-dev-app/FreeDomain">
+    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=22&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=500&height=70&lines=FreeDomain;Free+Domain+For+Everyone" alt="Typing SVG" />
+  </a>
+</p>
 
-With FreeDomain, you’re free to register a unique domain and host it with your favorite DNS provider, like Cloudflare, FreeDNS by Afraid.org, or Hostry. Get online with complete freedom, and keep your wallet happy.
+<p align="center">
 
-### ✔️ Why Free Domains?
+  <img src="https://img.shields.io/github/last-commit/salman-dev-app/FreeDomain?style=for-the-badge&color=00D9FF&label=LAST%20UPDATED&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/salman-dev-app/FreeDomain?style=for-the-badge&color=FF6B6B&logo=github&logoColor=white" />
+</p>
 
-At **DigitalPlat FreeDomain**, we’re on a mission to make the web more accessible. We believe that the cost of a domain shouldn’t hold anyone back from creating a website. Our goal is to make the internet an open space where everyone can have their own place online, regardless of budget.
-
-DigitalPlat is fiscally sponsored by The Hack Foundation, a 501(c)(3) nonprofit (EIN: 81-2908499).
-
----
-
-### 🌍 Available Domain Extensions
-
-- **.DPDNS.ORG**
-- **.US.KG**
-- **.QZZ.IO**
-- **.XX.KG**
-
-_(More extensions coming soon!)_
-
----
-
-### 🌍 Ready to Claim Your Free Domain?
-
-Jump in and register your domain by visiting our site:
-
-➡️ [DigitalPlat FreeDomain Dashboard](https://dash.domain.digitalplat.org/)
-
-📝 [Read our full tutorial (work in progress)](./documents/tutorial/getting-started/1-register-account.md)
+<p align="center">
+  <a href="https://github.com/salman-dev-app/FreeDomain">
+    <img src="https://img.shields.io/badge/GitHub-View_Repository-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://domain.digitalplat.org">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Site-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🌟 Trusted by Thousands
-
-With over 350,000 domains already registered, DigitalPlat FreeDomain is a trusted choice for individuals and organizations alike. Join our growing community and claim your own free domain today!
-
----
-
-### ❔ FAQ
-
-Check [FAQ Page](./documents/domains/faq.md)
+<div align="center">
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="25" height="25" style="vertical-align: middle;" /> 
+    DigitalPlat FreeDomain — Free Domain For Everyone
+  </h3>
+</div>
 
 ---
 
-### 🤝 Join Our Community!
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Clipboard" width="30" height="30" style="vertical-align: middle;" /> About This Project
 
-🆕 Join the official [DigitalPlat FreeDomain Telegram group](https://t.me/digitalplatdomain), [Discord server](https://discord.gg/ma4RZzMmVW) or [GitHub Discussion](https://github.com/DigitalPlatDev/FreeDomain/discussions) today! Be the first to know about the latest updates and happenings! Got questions? Facing challenges? Or simply want to show off your awesome builds? Don’t wait—become part of our community now! 🚀
-
----
-
-### 💰 Help Us Keep Domains Free
-
-DigitalPlat is a nonprofit, and every little bit helps us keep offering free domains to more people. If you’d like to support us, even a $1 donation makes a difference!
-
-All donations are handled by The Hack Foundation and used strictly for nonprofit purposes, following US IRS regulations under section 501(c)(3). Your support helps us keep the internet open and accessible for everyone.
-
-[Donate Us Today! (Tax exemption in the US)](https://hcb.hackclub.com/donations/start/digitalplat)
+<p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Repository:</strong> <a href="https://github.com/salman-dev-app/FreeDomain">FreeDomain</a><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Author:</strong> <a href="https://github.com/salman-dev-app">Md Salman Biswas</a><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Primary Language:</strong> Multi-language<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Live Demo:</strong> <a href="https://domain.digitalplat.org">https://domain.digitalplat.org</a><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>License:</strong> MIT
+</p>
 
 ---
 
-### ⏭️ What's next
-We might introduce more domain options and free hosting in the future to help as many people as possible! 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" style="vertical-align: middle;" /> Features
 
-**We can’t wait to see what you build!**
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Clean Architecture</strong> — Built following SOLID principles and DRY methodology</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Scalable Design</strong> — Engineered for performance and extensibility</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Developer Friendly</strong> — Well-structured codebase with clear documentation</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Production Ready</strong> — Battle-tested and deployed in real environments</p>
 
 ---
 
-### 🚨 Abuse Reporting
-We take domain name abuse seriously and are committed to maintaining a safer and more open internet. Every report is carefully reviewed, and response times may vary from a few hours to several days, depending on the complexity of the case.
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="30" style="vertical-align: middle;" /> Tech Stack
 
-Email: abusereport@digitalplat.org
-Report Form: [Abuse Report Form](https://docs.google.com/forms/d/e/1FAIpQLSdCuhUBFynK4d2YZXptEhV4QHei9-FAk2WhKovrnZRx01lSIQ/viewform)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="30" height="30" style="vertical-align: middle;" /> Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/salman-dev-app/FreeDomain.git
+
+# Navigate to the project
+cd FreeDomain
+
+# Install dependencies (if applicable)
+# Follow language-specific setup instructions below
+```
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="30" height="30" style="vertical-align: middle;" /> Connect With The Author
+
+<p align="center">
+  <a href="mailto:mdsalmanhelp@gmail.com">
+    <img src="https://img.shields.io/badge/Hire_Me-Send_Email-FF6B6B?style=for-the-badge&logo=minutemailer&logoColor=white" />
+  </a>
+  <a href="https://wa.me/8801840933137">
+    <img src="https://img.shields.io/badge/WhatsApp-Direct_Chat-4ECDC4?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://github.com/salman-dev-app">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="License" width="30" height="30" style="vertical-align: middle;" /> License
+
+<div align="center">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
+  </a>
+</div>
+
+<p align="center">
+  This project is licensed under the MIT License — feel free to use and contribute.
+</p>
+
+---
+
+<footer align="center">
+  <p>© 2024-2026 <a href="https://github.com/salman-dev-app">Md Salman Biswas</a> · All rights reserved</p>
+  <p>
+    <a href="https://github.com/salman-dev-app">
+      <img src="https://img.shields.io/badge/Profile_Status-Active-4ECDC4?style=flat" alt="Status" />
+    </a>
+  </p>
+  <p>Engineered with ❤️ by <a href="https://github.com/salman-dev-app">Md Salman Biswas</a></p>
+</footer>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=120&section=footer"/>
